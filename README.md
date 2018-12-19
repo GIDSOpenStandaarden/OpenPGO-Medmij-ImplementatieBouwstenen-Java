@@ -96,3 +96,16 @@ https://pgo.example.com/oauth/cb?code=xyz&state=abcd
 Get token:
 Exception: java.net.UnknownHostException: medmij.xisbridge.net
 ```
+
+
+## Version Guidance
+
+This library follows [Semantic Versioning](https://semver.org/).
+The versions of the Afsprakenset are mapped to the versions of the library as follows:
+
+| Version Afsprakenset       | Status     | Version library |
+|----------------------------|------------|-----------------|
+| [Afsprakenset release 1.1] | Latest     | 0.1.*           |
+
+[Afsprakenset release 1.1]: https://afsprakenstelsel.medmij.nl/display/PUBLIC/Afsprakenset+release+1.1
+
