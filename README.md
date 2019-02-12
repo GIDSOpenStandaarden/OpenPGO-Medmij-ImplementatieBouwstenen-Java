@@ -43,9 +43,9 @@ public class App {
 
     public static void main(String[] args) throws org.xml.sax.SAXException, IOException {
         final URL WHITELIST_URL = new URL(
-                "http://gids.samenbeter.org/openpgoexamples/1.0/whitelist-voorbeeld-v1.0.xml");
+                "http://gids.samenbeter.org/openpgoexamples/1.1/MedMij_Whitelist_example.xml");
         final URL ZAL_URL = new URL(
-                "http://gids.samenbeter.org/openpgoexamples/1.0/zorgaanbiederslijst-voorbeeld-v1.0.xml");
+                "http://gids.samenbeter.org/openpgoexamples/1.1/MedMij_Zorgaanbiederslijst_example.xml");
 
         final String HOSTNAME = "medmij.deenigeechtepgo.nl";
 
